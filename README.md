@@ -1,6 +1,6 @@
 # headwall_classification
 
-Files and descriptions
+Files and descriptions in RF_input_variables
 
 
 arr_clean_nopca: 3d tif with no geospatial information
